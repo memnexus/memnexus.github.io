@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a40f303d.css",
-    "main.js": "/static/js/main.cedd9f75.js",
-    "static/js/121.cc3a28f5.chunk.js": "/static/js/121.cc3a28f5.chunk.js",
+    "main.css": "/static/css/main.859dc0a3.css",
+    "main.js": "/static/js/main.7545f181.js",
+    "static/js/411.01c14918.chunk.js": "/static/js/411.01c14918.chunk.js",
     "static/media/background.png": "/static/media/background.9048443edc7f6a9a63b3.png",
     "static/media/battlefield_01.png": "/static/media/battlefield_01.bbeead539f2fd7b9501f.png",
     "static/media/gold_icon.png": "/static/media/gold_icon.e78c4e51cdcf12ca03bc.png",
@@ -13,12 +13,12 @@
     "static/media/attack_result_miss.png": "/static/media/attack_result_miss.73ce8d711ee48da6ba63.png",
     "static/media/attack_result_hit.png": "/static/media/attack_result_hit.16ab9df648a983e6e80a.png",
     "index.html": "/index.html",
-    "main.a40f303d.css.map": "/static/css/main.a40f303d.css.map",
-    "main.cedd9f75.js.map": "/static/js/main.cedd9f75.js.map",
-    "121.cc3a28f5.chunk.js.map": "/static/js/121.cc3a28f5.chunk.js.map"
+    "main.859dc0a3.css.map": "/static/css/main.859dc0a3.css.map",
+    "main.7545f181.js.map": "/static/js/main.7545f181.js.map",
+    "411.01c14918.chunk.js.map": "/static/js/411.01c14918.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a40f303d.css",
-    "static/js/main.cedd9f75.js"
+    "static/css/main.859dc0a3.css",
+    "static/js/main.7545f181.js"
   ]
 }
