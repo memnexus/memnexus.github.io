@@ -1,24 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.2640bcfd.css",
-    "main.js": "/static/js/main.84ab4044.js",
+    "main.css": "/static/css/main.5abdd344.css",
+    "main.js": "/static/js/main.06a06521.js",
     "static/js/411.01c14918.chunk.js": "/static/js/411.01c14918.chunk.js",
     "static/media/gold_icon.png": "/static/media/gold_icon.e78c4e51cdcf12ca03bc.png",
     "static/media/gem_icon.png": "/static/media/gem_icon.dfd8b36788207f9d4b7b.png",
     "static/media/vip_icon.png": "/static/media/vip_icon.1b7466b5738233f98701.png",
-    "static/media/attack_result_complete.png": "/static/media/attack_result_complete.e02f7540846bad278f3b.png",
-    "static/media/attack_result_defeat.png": "/static/media/attack_result_defeat.44cedb68a06b79e37e03.png",
-    "static/media/attack_result_miss.png": "/static/media/attack_result_miss.73ce8d711ee48da6ba63.png",
-    "static/media/attack_result_hit.png": "/static/media/attack_result_hit.16ab9df648a983e6e80a.png",
-    "static/media/attack_result_kill.png": "/static/media/attack_result_kill.16ab9df648a983e6e80a.png",
-    "static/media/background.png": "/static/media/background.1cdd7721f73b694f63df.png",
+    "static/media/background.png": "/static/media/background.579c9f8d94aa9fe69144.png",
     "index.html": "/index.html",
-    "main.2640bcfd.css.map": "/static/css/main.2640bcfd.css.map",
-    "main.84ab4044.js.map": "/static/js/main.84ab4044.js.map",
+    "main.5abdd344.css.map": "/static/css/main.5abdd344.css.map",
+    "main.06a06521.js.map": "/static/js/main.06a06521.js.map",
     "411.01c14918.chunk.js.map": "/static/js/411.01c14918.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2640bcfd.css",
-    "static/js/main.84ab4044.js"
+    "static/css/main.5abdd344.css",
+    "static/js/main.06a06521.js"
   ]
 }
